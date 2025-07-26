@@ -1,0 +1,29 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+publish/
+
+# User-specific files
+*.user
+*.suo
+*.sln.docstates
+
+# Configuration files
+duckdns_config.json
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
