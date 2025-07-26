@@ -6,6 +6,12 @@ x86/
 [Bb]in/
 [Oo]bj/
 publish/
+standalone-build/
+single-file-output/
+final-output/
+
+# Generated executables
+*-Standalone.exe
 
 # User-specific files
 *.user
@@ -17,6 +23,9 @@ duckdns_config.json
 
 # VS Code
 .vscode/
+
+# IDE
+.vs/
 
 # Visual Studio
 .vs/
